@@ -1,4 +1,4 @@
-package program1;
+package guvi;
 
 import java.util.Scanner;
 
@@ -20,7 +20,4 @@ public class posneg {
 			 }
 				
 			}
-		}
-		
-		
-	
+}
