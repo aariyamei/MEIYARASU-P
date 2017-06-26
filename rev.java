@@ -8,11 +8,9 @@ public class rev {
 	String s2;
 	 Scanner in=new Scanner(System.in);
 	 s1=in.next();
-	 s2=in.next();
-	 String rev=new StringBuffer(s1).reverse().toString(); 
-	 String s=new StringBuffer(s2).reverse().toString();
+	 String rev=new StringBuffer(s1).reverse().toString();
 	 System.out.println(rev);
-	 System.out.println(s);
+	
 	}
 	
 
